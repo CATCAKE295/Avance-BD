@@ -1,0 +1,271 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Proyecto Kermesse v 1.1
+</name>
+</assembly>
+<members>
+<member name="T:Proyecto_Kermesse_v_1._1.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Proyecto_Kermesse_v_1._1.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Proyecto_Kermesse_v_1._1.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.KermesseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.MonedaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.ParroquiaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.TipoCambioDetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.TipoCambioEncDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_KermesseDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_MonedaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_ParroquiaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_TipoCambioDetDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_TipoCambioEncDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.KermesseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.MonedaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.ParroquiaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.TipoCambioDetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.TipoCambioEncRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_KermesseRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_MonedaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_ParroquiaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_TipoCambioDetRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_TipoCambioEncRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.KermesseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.MonedaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.ParroquiaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.TipoCambioDetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.TipoCambioEncRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_KermesseRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_MonedaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_ParroquiaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_TipoCambioDetRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSet.VW_TipoCambioEncRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.KermesseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.MonedaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.ParroquiaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.TipoCambioDetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.TipoCambioEncTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.VW_KermesseTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.VW_MonedaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.VW_ParroquiaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.VW_TipoCambioDetTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.VW_TipoCambioEncTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Proyecto_Kermesse_v_1._1.KERMESSEDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Proyecto_Kermesse_v_1._1.KERMESSEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Proyecto_Kermesse_v_1._1.KERMESSEDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.TableAdapterManager.UpdateAll(Proyecto_Kermesse_v_1._1.KERMESSEDataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Proyecto_Kermesse_v_1._1.KERMESSEDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>
