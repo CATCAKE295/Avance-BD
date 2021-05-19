@@ -2,8 +2,6 @@ C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse 
 C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\bin\Debug\Proyecto Kermesse v 1.1.exe
 C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\bin\Debug\Proyecto Kermesse v 1.1.pdb
 C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\bin\Debug\Proyecto Kermesse v 1.1.xml
-C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto Kermesse v 1.1.vbprojAssemblyReference.cache
-C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto_Kermesse_v_1._1.Form1.resources
 C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto_Kermesse_v_1._1.Resources.resources
 C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto Kermesse v 1.1.vbproj.GenerateResource.cache
 C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto Kermesse v 1.1.vbproj.CoreCompileInputs.cache
@@ -11,3 +9,8 @@ C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse 
 C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto Kermesse v 1.1.xml
 C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto Kermesse v 1.1.pdb
 C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto_Kermesse_v_1._1.Kermessevb.resources
+C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto Kermesse v 1.1.vbprojAssemblyReference.cache
+C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto_Kermesse_v_1._1.Moneda.resources
+C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto_Kermesse_v_1._1.Parroquia.resources
+C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto_Kermesse_v_1._1.Tipo_Cambio_Detalle.resources
+C:\Users\Francisco Molina R\Downloads\Proyecto Kermesse v 1.1\Proyecto Kermesse v 1.1\obj\Debug\Proyecto_Kermesse_v_1._1.Tipo_Cambio_Encabezado.resources

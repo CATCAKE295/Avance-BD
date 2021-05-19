@@ -73,6 +73,18 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Tipo Cambio Detalle.Designer.vb">
+      <DependentUpon>Tipo Cambio Detalle.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tipo Cambio Detalle.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Moneda.Designer.vb">
+      <DependentUpon>Moneda.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Moneda.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="KERMESSEDataSet.Designer.vb">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
@@ -106,8 +118,20 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="Tipo_Cambio_Encabezado.Designer.vb">
+      <DependentUpon>Tipo_Cambio_Encabezado.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tipo_Cambio_Encabezado.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Tipo Cambio Detalle.resx">
+      <DependentUpon>Tipo Cambio Detalle.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Moneda.resx">
+      <DependentUpon>Moneda.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Kermessevb.resx">
       <DependentUpon>Kermessevb.vb</DependentUpon>
     </EmbeddedResource>
@@ -119,6 +143,9 @@
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tipo_Cambio_Encabezado.resx">
+      <DependentUpon>Tipo_Cambio_Encabezado.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
